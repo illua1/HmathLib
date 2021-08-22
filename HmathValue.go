@@ -1,4 +1,4 @@
-package hmath
+package github.com/illua1/HmathLib
 
 type ValueT struct{
 	
