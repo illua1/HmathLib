@@ -1,8 +1,8 @@
 package defaultF
 
 import(
-	"Src/StringsFactoryCollection"
-	"Src/MathLibTest"
+	"github.com/illua1/StringsFactoryCollection"
+	"github.com/illua1/HmathLib"
 	
 	"strings"
 )
