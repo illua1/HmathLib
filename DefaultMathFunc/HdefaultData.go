@@ -1,7 +1,7 @@
 package defaultF
 
 import(
-	"Src/StringsFactoryCollection"
+	"github.com/illua1/StringsFactoryCollection"
 	"Src/MathLibTest"
 )
 
