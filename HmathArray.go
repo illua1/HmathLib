@@ -1,7 +1,7 @@
 package hmath
 
 import(
-	"Src/StringsFactoryCollection"
+	"github.com/illua1/StringsFactoryCollection"
 )
 
 
